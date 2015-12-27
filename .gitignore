@@ -1,0 +1,6 @@
+node_modules
+.DS_Store*
+.hubot_history
+
+# env variables tend to be pretty sensitive
+environment/*

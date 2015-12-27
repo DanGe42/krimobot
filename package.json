@@ -1,0 +1,19 @@
+{
+  "name": "krimo",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Daniel Ge <daniel@dge.io>",
+  "description": "A robot who replies to your emails in its mind, but forgets to actually do it.",
+  "dependencies": {
+    "hubot": "^2.17.0",
+    "hubot-diagnostics": "0.0.1",
+    "hubot-google-images": "^0.2.6",
+    "hubot-pugme": "^0.1.0",
+    "hubot-scripts": "^2.16.2",
+    "hubot-shipit": "^0.2.0",
+    "hubot-slack": "^3.4.2"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
